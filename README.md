@@ -15,6 +15,7 @@
 * Memory Size - 1MB
 * RAM Size - 192kB
 * Interface - CAN, Ethernet, I2C, SPI, UART, USART and USB
+* Internal Clock 16MHz
 
 ### Board
 
@@ -22,7 +23,7 @@
 
 ### Output
 
-HSI(High Speed Internal Clock) channeled to Pin PA-8. The Clock logic can be observed on Pin PA-8 usiung digital logic analyser.
+* 16MHz HSI(High Speed Internal Clock) channeled to Pin PA-8. The Clock logic can be observed on Pin PA-8 usiung digital logic analyser.
 
 ### Circuit Diagram
 
