@@ -15,7 +15,7 @@
 * Memory Size - 1MB
 * RAM Size - 192kB
 * Interface - CAN, Ethernet, I2C, SPI, UART, USART and USB
-* Internal Clock 16MHz
+* Internal Clock - 16MHz
 
 ### Board
 
