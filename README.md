@@ -26,5 +26,5 @@ HSI(High Speed Internal Clock) channeled to Pin PA-8. The Clock logic can be obs
 
 ### Circuit Diagram
 
-![ScreenShot](./source/Circuit-Diagram.png)
+![ScreenShot](./source/Circuit-Diagram1.png)
 
